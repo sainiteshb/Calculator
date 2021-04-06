@@ -1,4 +1,6 @@
 # Calculator 
+- Basic Calculator Application made with Java.
+- Followed tutorial from Brocode Youtube Channel
 
 <img src = "https://github.com/sainiteshb/Calculator/blob/main/screenshot/cal.png" width = "370px" height = "500px" />
 
