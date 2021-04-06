@@ -60,6 +60,10 @@ public class Calculator implements ActionListener {
 			numberButtons[i].setFocusable(false);
 		}
 
+	        negButton.setBounds(50,430,100,50);
+		delButton.setBounds(150,430,100,50);
+		clrButton.setBounds(250,430,100,50);
+		
 		panel = new JPanel();
 		panel.setBounds(50, 100, 300, 300);
 		panel.setLayout(new GridLayout(4,4,10,10));
