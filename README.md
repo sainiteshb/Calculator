@@ -1,6 +1,6 @@
 # Calculator 
 
-<img src = "https://github.com/sainiteshb/Apollo-19/blob/master/assets/doctor.svg" width = "250px" height = "300px" />
+<img src = "https://github.com/sainiteshb/Calculator/blob/main/screenshot/cal.png" width = "370px" height = "500px" />
 
 # Download & Install
 First, clone the repository with the 'clone' command, or just download the zip.
