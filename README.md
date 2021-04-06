@@ -1,6 +1,6 @@
 # Calculator 
 - Basic Calculator Application made with Java.
-- Followed tutorial from Bro Code Youtube Channel.[Link:](https://www.youtube.com/watch?v=dfhmTyRTCSQ&list=PL8oNK_rYJNVFWAvZziUN2MEfEoHq4_hO4&index=14)  Calculator
+- Followed tutorial from Bro Code Youtube Channel. Link: [Calculator](https://www.youtube.com/watch?v=dfhmTyRTCSQ&list=PL8oNK_rYJNVFWAvZziUN2MEfEoHq4_hO4&index=14) 
 
 <img src = "https://github.com/sainiteshb/Calculator/blob/main/screenshot/cal.png" width = "370px" height = "500px" />
 
